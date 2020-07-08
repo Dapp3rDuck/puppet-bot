@@ -19,7 +19,7 @@ async def on_ready():
         )
     )
     while True:
-        channel = client.get_channel(os.getenv("CHANNEL"))
+        channel = client.get_channel(int(os.getenv("CHANNEL")))
         message = input(str(">>> "))
         await channel.send(message)
 
