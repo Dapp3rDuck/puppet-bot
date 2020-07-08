@@ -20,7 +20,7 @@ async def on_ready():
     )
     while True:
         channel = client.get_channel(716037169072046114)
-        message = input(str(">>>"))
+        message = input(str(">>> "))
         await channel.send(message)
 
 client.run(os.getenv("TOKEN"))
