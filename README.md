@@ -5,7 +5,7 @@
 ![](https://img.shields.io/github/v/release/Dapp3rDuck/duckbot?include_prereleases&style=flat-square)<br/>
 
 
-**&nbsp;&nbsp;&nbsp;Puppet bot is a discord bot, made using [discord's python api](https://discordpy.readthedocs.io/en/latest/).  It is a bot that you completely controll, so you can act like a regular chat bot, that comes to life lul.
+**&nbsp;&nbsp;&nbsp;Puppet bot is a discord bot, made using [discord's python api](https://discordpy.readthedocs.io/en/latest/).  It is a bot that you completely controll, so you can act like a regular chat bot, that comes to life lul.**
 ### FAQ
 **Why does it exist?**<br>
 For trolling people
