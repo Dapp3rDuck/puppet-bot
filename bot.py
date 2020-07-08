@@ -18,13 +18,9 @@ async def on_ready():
             name="#general"
         )
     )
-
-async def puppet():
-    await client.wait_until_ready()
-    channel = discord.Object(id='716037169072046114')
-    while not client.is_closed:
-        message = input(str(">>>"))
+    while True:
+        channel = client.get_channel(730231943349928047)
+        message = input(str("> "))
         await channel.send(message)
 
-client.loop.create_task(puppet())
 client.run(os.getenv("TOKEN"))
