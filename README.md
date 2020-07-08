@@ -1,9 +1,4 @@
 # Puppet-Bot
-![](https://img.shields.io/badge/build-passing-green/?style=flat-square)
-![](https://img.shields.io/github/repo-size/Dapp3rDuck/duckbot?style=flat-square)
-![](https://img.shields.io/github/issues/Dapp3rDuck/duckbot?style=flat-square)
-![](https://img.shields.io/github/v/release/Dapp3rDuck/duckbot?include_prereleases&style=flat-square)<br/>
-
 
 **&nbsp;&nbsp;&nbsp;Puppet bot is a discord bot, made using [discord's python api](https://discordpy.readthedocs.io/en/latest/).  It is a bot that you completely controll, so you can act like a regular chat bot, that comes to life lul.**
 ### FAQ
